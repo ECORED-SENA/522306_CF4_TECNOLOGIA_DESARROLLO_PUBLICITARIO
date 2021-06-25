@@ -1,0 +1,103 @@
+.banner-interno__titulo__icono i
+  color: #fff !important
+
+//tarjetas cortas verticales
+.arrow-crd
+  position: relative
+  height: 100%  
+  &::before
+    content: ""
+    position: absolute
+    bottom: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background-color: #F2F6FE
+    border-radius: 12px
+    z-index: 0  
+  &__header--azul
+    position: relative
+    padding: 1rem
+    background-color: #7D6EB2
+    border-top-left-radius: 12px
+    border-top-right-radius: 12px    
+    p
+      font-size: 25pt
+      font-weight: 800
+      text-align: center
+      margin: 0
+      color: #ffffff
+    &::before
+      content: ""
+      position: absolute
+      bottom: -15px
+      left: 50%
+      transform: translateX(-50%)
+      border-top: solid 15px #7D6EB2
+      border-left: solid 15px transparent
+      border-right: solid 15px transparent
+      z-index: 2
+      &:nth-child(odd)
+  &__header
+    position: relative
+    padding: 1rem
+    background-color: #26AAB7
+    border-top-left-radius: 12px
+    border-top-right-radius: 12px    
+    p
+      font-size: 25pt
+      font-weight: 800
+      text-align: center
+      margin: 0
+      color: #ffffff
+    &::before
+      content: ""
+      position: absolute
+      bottom: -15px
+      left: 50%
+      transform: translateX(-50%)
+      border-top: solid 15px #26AAB7
+      border-left: solid 15px transparent
+      border-right: solid 15px transparent
+      z-index: 2
+      &:nth-child(odd)
+  
+  
+  &__body   
+    position: relative
+    padding: 1.5rem
+    p 
+      text-align: center
+      font-weight: bold
+
+.transparent1
+  border-top: 2px solid #afafaf
+  //border-bottom: 2px solid #afafaf
+  border-radius: 0 !important
+
+
+.bloque-texto-a.color-primario 
+  background-color: #f6f6f6
+
+.bloque-texto-a.color-primario:before 
+  background-color: #cbc5e0
+
+.bloque-texto-a__texto 
+  background-color: #fffffff2
+
+.bloque-texto-a:before 
+  left: 39%
+
+.cajon.color-acento-contenido 
+  background-color: #aee6e682
+
+//tabs con tarjetas PENDEINTE EN CAMBIAR DISPLAY: BLOCK-INLINE
+.tarjeta-avatar .tarjeta
+  display: flex
+
+.tarjeta.color-primario
+  //background-color: #7D6EB2
+  background-color: #7d6eb252
+
+.fa-check
+  color: #7D6EB2
