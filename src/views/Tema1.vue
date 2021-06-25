@@ -345,7 +345,7 @@
               .col-lg-10
                 .h3.text-center.mb-5 Modelo 360°
                 figure.mb-5
-                  img(src='@/assets/curso/tema1/tema1_1/img9.svg', alt='Modelo 360°', style='width:625px;').mx-auto
+                  img(src='@/assets/curso/tema1/tema1_1/img9.svg', alt='Modelo 360°', style='width:500px;').mx-auto
               .col-lg-12
                 p En la campaña 360° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo. En una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión.
 
@@ -547,7 +547,7 @@
         p.mb-5 Basado en lo anterior, a continuación, se relaciona un ejemplo del mix de medios realizado sobre un modelo de campaña 4D; en el que se puede ver la similitud con el modelo 360°, debido al uso de todos los medios posibles para generar una interacción con los clientes. Es importante aclarar que este modelo está concebido para desarrollarse a largo plazo y de acuerdo con el ciclo de vida del consumidor:
         .h4.mb-4.text-center Ejemplo mix de medios sobre modelo 4D
         figure.mb-5
-          img(src='@/assets/curso/tema1/tema1_1/img23.svg',alt='Ejemplo mix de medios sobre modelo 4D', style="width:677px;").mx-auto
+          img(src='@/assets/curso/tema1/tema1_1/img23.svg',alt='Ejemplo mix de medios sobre modelo 4D', style="width:500;").mx-auto
         p Una vez conocida la estructura de la campaña publicitaria y estudiados tres modelos de campaña realizados por agencias multinacionales, es viable que el aprendiz pueda tomar la decisión de cuál modelo es el más adecuado o qué elementos de cada uno de ellos adoptaría para el desarrollo de las estrategias de comunicación para una empresa. Lo importante es que las estrategias que se planteen, tanto desde el punto de vista técnico en la selección de medios y actividades de marketing, como en la parte creativa, sean apropiadas para el producto e impacten de forma eficiente al consumidor, para facilitarle el proceso de comprar y satisfacer sus necesidades, gustos, deseos y demandas cómo él lo espera.
 
 </template>
