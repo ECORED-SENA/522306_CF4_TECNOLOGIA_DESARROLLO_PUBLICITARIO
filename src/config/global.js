@@ -202,17 +202,17 @@ export default {
     {
       termino: 'Briefing',
       significado:
-        ' Marketing. Conjunto de datos sobre la empresa, sus objetivos y estrategia; que sirven de base al consultor o diseñador para plantear la comunicación corporativa. Término inglés que engloba las instrucciones que el cliente da a su proveedor para que de acuerdo con ellas desarrolle la campaña de Marketing Directo desde la idea global hasta el envío del mailing.',
+        'Marketing. Conjunto de datos sobre la empresa, sus objetivos y estrategia; que sirven de base al consultor o diseñador para plantear la comunicación corporativa. Término inglés que engloba las instrucciones que el cliente da a su proveedor para que de acuerdo con ellas desarrolle la campaña de Marketing Directo desde la idea global hasta el envío del mailing.',
     },
     {
       termino: 'Canal',
       significado:
-        ' En teoría de la comunicación, camino técnico o fisiológico que recorre un mensaje desde el emisor hasta el receptor. ',
+        'En teoría de la comunicación, camino técnico o fisiológico que recorre un mensaje desde el emisor hasta el receptor. ',
     },
     {
       termino: 'Comunicación',
       significado:
-        ' Es hacer común un significado a una comunidad, con el fin de que toda ella pueda comulgar en la comprensión de este. Proceso por el cual una fuente emisora influye sobre un sistema receptor a través de la manipulación de signos (creatividad, combinatoria, codificación), configurando mensajes y circulándolos por medio de determinados canales físicos.',
+        'Es hacer común un significado a una comunidad, con el fin de que toda ella pueda comulgar en la comprensión de este. Proceso por el cual una fuente emisora influye sobre un sistema receptor a través de la manipulación de signos (creatividad, combinatoria, codificación), configurando mensajes y circulándolos por medio de determinados canales físicos.',
     },
     {
       termino: 'Creatividad ',
@@ -227,17 +227,17 @@ export default {
     {
       termino: 'Posicionamiento',
       significado:
-        ' Situación de una marca en el mercado, respecto a sus competidores.',
+        'Situación de una marca en el mercado, respecto a sus competidores.',
     },
     {
       termino: 'Publicidad',
       significado:
-        ' Proceso y acción de comunicación que se difunde a través de los medios de comunicación colectiva, siendo el término genérico de anuncio su contenido específico. La publicidad pretende dar a conocer un producto, una idea, un servicio o una imagen sobre el público consumidor para influir en su compra y aceptación.',
+        'Proceso y acción de comunicación que se difunde a través de los medios de comunicación colectiva, siendo el término genérico de anuncio su contenido específico. La publicidad pretende dar a conocer un producto, una idea, un servicio o una imagen sobre el público consumidor para influir en su compra y aceptación.',
     },
     {
       termino: 'RR.PP / Relaciones Públicas',
       significado:
-        ' Acciones de comunicación destinadas a la creación y el mantenimiento de una imagen positiva de las empresas o instituciones ante grupos específicos: prensa, clientes.',
+        'Acciones de comunicación destinadas a la creación y el mantenimiento de una imagen positiva de las empresas o instituciones ante grupos específicos: prensa, clientes.',
     },
   ],
   complementario: [
@@ -292,21 +292,21 @@ export default {
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
       },
       {
         nombre: 'Julieth Paola Vital López',
-        cargo: 'Evaluadora Instruccional',
+        cargo: 'Evaluadora instruccional',
         centro:
           'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
       },
-      /*{
-        nombre: '',
-        cargo: '',
+      {
+        nombre: 'Martha Isabel Martínez Vargas',
+        cargo: 'Productora audiovisual',
         centro:
-          '',
-      },*/
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
     ],
     desarrolloProducto: [
       {
@@ -321,25 +321,25 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Marcela Gonzales'],
+        nombre: ['Marcela Gonzalez Gomez'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
         nombre: 'John Andres Ayala Angarita',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      {
+      /*{
         nombre: 'Martha Isabel Martínez Vargas',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
+      },*/
       {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
