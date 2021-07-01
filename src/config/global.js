@@ -307,18 +307,6 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      {
-        nombre: 'Camilo Andrés Villamizar Lizcano',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nelson Iván Vera Briceño',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
     ],
     desarrolloProducto: [
       {
@@ -331,6 +319,18 @@ export default {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Camilo Andrés Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
         nombre: ['Marcela Gonzalez Gomez'],
