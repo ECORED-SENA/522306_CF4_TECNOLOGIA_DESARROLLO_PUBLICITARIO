@@ -287,25 +287,37 @@ export default {
       },
       {
         nombre: 'Manuel Augusto Arias López',
-        cargo: 'Instructor – Experto temático',
-        centro: 'Centro de Comercio y Servicios – Regional Quindío',
+        cargo: 'Instructor Experto temático',
+        centro: 'Centro de Comercio y Servicios Regional Quindío',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Diseñador instruccional',
-        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
       },
       {
         nombre: 'Julieth Paola Vital López',
         cargo: 'Evaluadora instruccional',
         centro:
-          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+          'Centro para la Industria y la Comunicación Gráfica Regional Distrito Capital',
       },
       {
         nombre: 'Martha Isabel Martínez Vargas',
         cargo: 'Productora audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     desarrolloProducto: [

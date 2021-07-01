@@ -259,6 +259,7 @@
       .row.justify-content-center
         .col-lg-10
           p.mb-4 Tomando nuevamente como base a Vilajoana, et al. (2014), se establece que todos los objetivos deben tener, de ser posible, la siguiente estructura:
+          p
             ul.lista-ul.mb-4(style="margin-left:66px;")
               li 
                 i.fas.fa-chevron-right(style="color:#7D6EB2")
